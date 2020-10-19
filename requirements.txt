@@ -1,0 +1,12 @@
+requests
+termcolor
+discord.py
+pyourls3
+jishaku
+whois
+aiohttp
+aiofiles
+pillow
+googletrans
+yahoo_fin
+parsedatetime
